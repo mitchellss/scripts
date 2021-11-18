@@ -1,8 +1,9 @@
 import requests
 import time
 import json
+import os
 
-key = "274c740b3b6b97ea519d485849454b59"
+key = ""
 
 # Coords for Harrisonburg
 lat_lon = (38.491487, -78.815965)
